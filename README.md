@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Book App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ https://aasiyavijay.github.io/book-app/
 
 ## Available Scripts
 
